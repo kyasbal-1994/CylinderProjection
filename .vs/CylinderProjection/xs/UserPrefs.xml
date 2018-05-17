@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{32FAA64F-15B1-60E7-A992-CF15851A1E9D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CylinderProjection/CylinderProjector.cs">
+    <Files>
+      <File FileName="Assets/CylinderProjection/CylinderProjector.cs" Line="21" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CylinderProjection PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
